@@ -1,0 +1,16 @@
+.postContainer {
+  margin: 16px 48px;
+}
+
+.authorBox {
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  width: 45%;
+  border: 1px solid #292c31;
+}
+
+.authorAvatar {
+  width: 25%;
+  border-radius: 3em;
+}

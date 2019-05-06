@@ -1,0 +1,24 @@
+.cardContainer {
+  display: flex;
+  align-items: flex-start;
+  height: 12em;
+  width: 60%;
+  margin: 8px;
+  padding: 8px;
+  border: 1px solid #292c31;
+}
+
+.cardContent {
+  /* width: 50%; */
+}
+
+.previewImg {
+  width: 40%;
+}
+
+@media only screen and (max-width: 565px) {
+  .cardContainer {
+    margin: 4px 2px;
+    padding: 4px;
+  }
+}
