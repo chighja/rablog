@@ -5,6 +5,13 @@ class Post extends Component {
   render() {
     return (
       <div className="postContainer">
+        <div>
+          <img
+            className="heroImg"
+            src="https://www.fujifilm.co.nz/products/digital_cameras/x/fujifilm_x_t1/sample_images/img/index/ff_x_t1_001.JPG"
+            alt="hero image"
+          />
+        </div>
         <h1 className="articleTitle">I am the title</h1>
         <h3>I am the subheading describing the article</h3>
         <div className="authorBox">

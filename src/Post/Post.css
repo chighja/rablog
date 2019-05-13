@@ -2,6 +2,10 @@
   margin: 16px 48px;
 }
 
+.heroImg {
+  width: 100%;
+}
+
 .authorBox {
   padding: 8px;
   display: flex;
